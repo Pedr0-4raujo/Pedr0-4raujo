@@ -19,7 +19,7 @@ cat > README.md << 'EOF'
 
 <br>
 
-## 👤 Sobre mim
+## Sobre mim
 
 ```text
 Nome ........ Pedro de Araujo Freitas
@@ -32,7 +32,7 @@ Estudante de Engenharia de Software na UCB, com foco em programação orientada 
 
 <br>
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <div align="center">
 
@@ -52,7 +52,7 @@ Estudante de Engenharia de Software na UCB, com foco em programação orientada 
 
 <br>
 
-## 🚀 Projetos
+## Projetos
 
 <div align="center">
   <a href="https://github.com/Pedr0-4raujo/Projeto-LBD">
@@ -65,7 +65,7 @@ Estudante de Engenharia de Software na UCB, com foco em programação orientada 
 
 <br>
 
-## 📊 Estatísticas
+## Estatísticas
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pedr0-4raujo&show_icons=true&hide_border=false&bg_color=0b1026&title_color=a78bfa&text_color=c4b5fd&icon_color=7c3aed&border_color=2e1a6b&ring_color=7c3aed" alt="GitHub Stats" />
@@ -78,7 +78,7 @@ Estudante de Engenharia de Software na UCB, com foco em programação orientada 
 
 <br>
 
-## 📈 Atividade
+## Atividade
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedr0-4raujo&bg_color=0b1026&color=a78bfa&line=7c3aed&point=e9d5ff&area=true&area_color=2e1a6b&hide_border=true" alt="Activity Graph" />
@@ -86,7 +86,7 @@ Estudante de Engenharia de Software na UCB, com foco em programação orientada 
 
 <br>
 
-## 🏆 Troféus
+## Troféus
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Pedr0-4raujo&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" alt="GitHub Trophies" />
@@ -94,7 +94,7 @@ Estudante de Engenharia de Software na UCB, com foco em programação orientada 
 
 <br>
 
-## 🐍 Contribuições
+## Contribuições
 
 <div align="center">
   <picture>
@@ -106,7 +106,7 @@ Estudante de Engenharia de Software na UCB, com foco em programação orientada 
 
 <br>
 
-## 🌐 Vamos conversar
+## Vamos conversar
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pedro-freitas-825587354/"><img src="https://img.shields.io/badge/LinkedIn-Pedro%20Freitas-2e1a6b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
